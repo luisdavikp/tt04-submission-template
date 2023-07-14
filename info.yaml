@@ -21,7 +21,7 @@ yaml_version: 4
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       "Luis Davi Paganella"      # Your name
+  author:       "Luis Davi K. Paganella"      # Your name
   title:        "Teste Somador 6 bits"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "Projeto Teste"      # Short description of what your project does
